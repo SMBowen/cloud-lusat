@@ -1,0 +1,7 @@
+*.swp
+.git
+.gitignore
+Dockerfile
+README.md
+CHANGELOG.md
+.gitlab-ci.yml

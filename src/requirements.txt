@@ -1,0 +1,7 @@
+argparse
+requests_aws4auth
+elasticsearch
+boto3
+requests
+urllib3
+python-dateutil
